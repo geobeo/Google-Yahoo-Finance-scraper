@@ -8,7 +8,7 @@ Needs python 3.5, beautifulsoup 4 (and some other libs) to work.
 
 Quickstart: 
 
-- Look at scarper2.py to use this script. If you simply run this script it will generate a .csv file with a table containing 
+- Look at scraper2.py to use this script. If you simply run this script it will generate a .csv file with a table containing 
 all scraped data for all financial instruments in LSE and ENX_AMS exchanges with a last-day's volume of over 800.000 EUR
 
 Look into the script to change this 800.000 EUR threshold to something else or to add symbols from other exchanges. 
