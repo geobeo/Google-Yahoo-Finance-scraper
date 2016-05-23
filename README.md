@@ -1,8 +1,8 @@
 # Google-Yahoo-Finance-scraper
 Scrapes financial instrument data off of google and yahoo finance
-===
+
 Scraper by Georges Meinders / MEGAHARD for ATG (and for fun)
-===
+
 
 Needs python 3.5, beautifulsoup 4 (and some other libs) to work. 
 
